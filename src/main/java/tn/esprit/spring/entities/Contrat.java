@@ -55,7 +55,7 @@ public class Contrat implements Serializable {
 		this.typeContrat = typeContrat;
 		
 	}
-
+//test
 	public Date getDateDebut() {
 		return dateDebut;
 	}
